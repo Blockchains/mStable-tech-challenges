@@ -6,7 +6,7 @@ problems and innovate while interacting with Ethereum.
 
 We really like to see clean interfaces and well written solutions built with modern tech in mind.
 
-**Like the real world better?** Feel free to innovate on top of the mStable-savings contract or mStable-earn, integrating with and capitalising on one of the many other DeFi protocols or tool sets out there.
+**Like the real world better?** Feel free to innovate with `MINT`, `SAVE`, `SWAP` or `EARN`.. building something on top or potentially integrating with one of the many other DeFi protocols, tools or platforms out there
 
 # Task
 
@@ -16,7 +16,7 @@ to save as much of it as possible for his future.
 
 ## Instructions
 
-Create an integration between two or more protocols that allows the family to stream Jimmy payment for his
+Create a mechanism, or an integration between two some protocols that allows the family to stream Jimmy payment for his
 work and subsequently put his money to work in a yield generating mechanism.
 
 The ideal solution would have the following components:
@@ -27,12 +27,9 @@ The ideal solution would have the following components:
 
 ## Suggestions
 
-- [Sablier Finance](https://sablier.me/) is a well written, battle tested payment streaming library, you could fork it!
+- [Sablier Finance](https://sablier.me/) is a well written, battle tested payment streaming library, you could fork it
 - mStable, Compound, Aave have yield generating mechanisms that allow easy, no loss access for savers
-- Use Truffle or Buidler for creating and deploying the smart contract
-- Use local Ganache, Rinkeby or Ropsten as the test blockchain
-- Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
-- Provide some instructions to help us get everything up and running
+- Provide some instructions to help us get everything up and running e.g. to simulate activity on the network to make things spin
 
 ### Bonus points
 
@@ -49,6 +46,6 @@ Throw your solution on Github (private or public) and send an email with the lin
 
 ### mStable
 
-See the [deployed addresses](https://docs.mstable.org/protocol/deployed-addresses) of the mStable contracts on the Ropsten network.
+See the [deployed addresses](https://docs.mstable.org/protocol/deployed-addresses) of the mStable contracts on the Ropsten network or [use testnet](https://app-dot-mstable-staging.appspot.com/)
 
 Need some bAssets to mint with? Head to [Aave Faucet](https://testnet.aave.com/faucet) for USDT and TUSD tokens, or the [Compound App](https://app.compound.finance/Asset/cUSDC) for USDC and DAI.

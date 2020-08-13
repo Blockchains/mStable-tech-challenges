@@ -5,7 +5,9 @@ Mechanisms are hard to get right, particularly in the fast moving DeFi industry 
 
 We want to see how you solve problems and innovate while interacting with Ethereum.
 
-**Like the real world better?** Critique the [mStable protocol](https://github.com/mstable/mstable-contracts) and propose an improvement to one of our mechanisms - provide a description and pseudocode/implementation
+**Like the real world better?** Critique the [mStable protocol](https://github.com/mstable/mstable-contracts) and propose an improvement to one of our mechanisms, providing a description and pseudocode or implementation instead.
+
+Choose 1:
 
 # Task 1
 

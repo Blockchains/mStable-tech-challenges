@@ -6,9 +6,9 @@ If you're a seasoned coder, you should have no problems with the task, but don't
 worry if you're new to the game either, we just want to see is how you solve
 problems and innovate while interacting with Ethereum.
 
-We really like to see clean, innovative interfaces and well written, modular and strongly typed code code.
+We really like to see clean, innovative interfaces and well written, modular and strongly typed code.
 
-**Want a real world task**? Feel free to complete an issue listed by our team on the [mStable-app](https://github.com/mstable/mstable-app/issues) instead.
+**Like the real world better?** Feel free to complete an issue with the tag `challenge` listed by our team on the [mStable-app](https://github.com/mstable/mstable-app/issues) instead.
 
 # Task
 
@@ -25,7 +25,6 @@ The product should consist of:
 
 ## Suggestions
 
-- Put a dash of colour on top with an elegant CSS library
 - Use our favourite tools - Typescript, GraphQL, React and Context API to make the client as fast as possible
 - Use Local Ganache, Ropsten or Rinkeby as the test blockchain
 - Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
@@ -35,7 +34,7 @@ The product should consist of:
 
 - Gamification
 - Innovation: Show us what you can really do
-  - e.g. gas costs too high on mainnet? How about using a Layer 2 solution?
+  - e.g. gas costs too high? Add some gas minimisation strategies
   - e.g. maybe you want Mary to only spend the interest she gains from the capital and need to create additional wrapper contract
   - e.g. maybe the funds get converted into a different asset to optimise yield under the hood
 

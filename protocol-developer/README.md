@@ -5,42 +5,48 @@ Mechanisms are hard to get right, particularly in the fast moving DeFi industry 
 
 We want to see how you solve problems and innovate while interacting with Ethereum.
 
-**Want a real world task**? Feel free to submit an upgrade or improvement to our existing protocol [mStable-contracts repo](https://github.com/mstable/mstable-contracts) instead.
+**Like the real world better?** Critique the [mStable protocol](https://github.com/mstable/mstable-contracts) and propose an improvement to one of our mechanisms - provide a description and pseudocode/implementation
 
 # Task 1
 
-Design, implement, test and rationalise a solution to the following scenario.
-
 A University in Ukraine is hoping to incentivise collaboration in its community by rewarding students for starting clubs and societies. They will give all students 1000 `$COLAB` tokens each for the year. These tokens can be used to register interest and participate in activies in different student led societies, and the University will pay out
-grants to the organisations at the end of the year based on their `$COLAB` staking.
+grants to the organisations at the end of the year based on the `$COLAB` staked with them over time.
 
-A conscientious student named Sofia is starting up an organisation that will run gaming competitions, and will reward users with `$GAME` tokens for staking their `$COLAB` with her. The `$GAME` tokens will be used to run and incentivise competitions, orchestrate society governance and GAME holders will receive a portion of the funds issued by the university at the end of the year.
+A conscientious student named Sofia is starting up an organisation that will run gaming competitions, and will issue users with `$GAME` tokens for staking their `$COLAB` with her. Sofia wants to allow `$GAME` holders to govern overall funding for various gaming tournaments by leveraging one or more smart contracts, and `$GAME` holders will also receive a portion of the funds issued by the university at the end of the year.
 
 ## Instructions
 
-Design and rationalise an incentive mechanism to reward early participants with `$GAME` tokens, while keeping a balance with longer term participants who are beneficial to the community and growth of the organisation.
+Design and rationalise a mechanism which incentivises `$GAME` holders to govern this funding distribution effectively, with a focus on **growing the overall amount of `$COLAB` staked in Sofias society**.
 
 The ideal solution would have the following components:
 
-- Smart Contract(s)
+- Smart Contracts for `$GAME` & `$COLAB` with a focus on the `$GAME` distribution mechanism
 - Rationale for the chosen mechanism and a brief description of how it works
-  - Test output or some method of interfacing with the staking contracts would be useful
-
-## Suggestions
-
-- Test and
-- Use Truffle or Buidler for creating and deploying the smart contract
-- Use Ganache-cli or Ropsten as the test blockchain
+  - Test output or some method of interfacing with the staking contracts
 
 ### Bonus points
 
-- Build out or rationalise a weighted voting system - how much weight would each `$GAME` token have in the decisions being made to the organisation? Would they be locked up?
-- Gamification
+- Build out or rationalise a primitive governance system using `$GAME`
 - Innovation: Show us what you can really do
 
 # Task 2
 
-// TODO - Protocol
+The growing DeFi ecosystem provides attractive yields for participants, but the gas costs on the Ethereum network are super high, at the expense of the small time players who don't have unlimited capital to play with.
+
+## Instructions
+
+Create a mechanism built on top of a popular lending market or DeFi instrument that minimises gas costs or provides incentives for the majority of participants, allowing much broader access to the public. Compare and contrast your chosen implementation against other approaches.
+
+The ideal solution would have the following components:
+
+- Smart Contract(s)
+- Documentation contrasting the chosen implementation against other approaches
+  - Test output or gas cost calculations highlighting the benefits to the market
+
+### Bonus points
+
+- Method of interacting with the protocol - UI, CLI or API
+- Innovation: Show us what you can really do to **get people excited about your product**
 
 # Submissions
 

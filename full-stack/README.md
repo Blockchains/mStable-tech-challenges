@@ -6,6 +6,8 @@ problems and innovate while interacting with Ethereum.
 
 We really like to see clean interfaces and well written solutions built with modern tech in mind.
 
+**Like the real world better?** Feel free to innovate on top of the mStable-savings contract or mStable-earn, integrating with and capitalising on one of the many other DeFi protocols or tool sets out there.
+
 # Task
 
 Young Jimmy has got a summer job working as an au pair (live in nanny) for a family down in the south of France. As he will be on call most of the day, the

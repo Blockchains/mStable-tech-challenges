@@ -1,7 +1,7 @@
 # Full Stack Developer
 
 If you're a seasoned coder, you should have no problems with the task, but don't
-worry if you're new to the game either, we just want to see is how you solve
+worry if you're new to the game either, we just want to see how you solve
 problems and innovate while interacting with Ethereum.
 
 We really like to see clean interfaces and well written solutions built with modern tech in mind.
@@ -22,7 +22,7 @@ work and subsequently put his money to work in a yield generating mechanism.
 The ideal solution would have the following components:
 
 - Smart Contract(s) - this should allow both parties to have sufficient control of the payments, and facilitate the stream
-- Frontend, API or CLI - this would allow both parties to interact with the app from a web interface
+- Frontend, API or CLI - this would allow both parties to interact with the app
 - Rationale for the chosen mechanism and a brief description of how it works
 
 ## Suggestions
@@ -36,7 +36,7 @@ The ideal solution would have the following components:
 - Gamification
 - Innovation: Show us what you can really do
   - e.g. gas costs too high on mainnet? How about implementing some gas minimisation strategies
-  - e.g. have a better idea about how Jimmy can get a fair payment? Implement it!
+  - e.g. have a better idea about how Jimmy can get paid and save his money? Implement it!
 
 # Submissions
 

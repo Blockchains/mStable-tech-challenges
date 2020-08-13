@@ -44,7 +44,7 @@ We’re looking for a talented Ethereum developer with expertise across DeFi, fi
 
 The ideal protocol engineer will find innovative solutions to tough problems by designing incentive mechanisms, protocol optimisations and governance mechanics in a fast moving DeFi ecosystem.
 
-See [protocol challenge](./protocol-engineer/README.md) that should help us understand your ability to do the above.
+See [protocol challenge](./protocol-developer/README.md) that should help us understand your ability to do the above.
 
 #### Testnet notes
 

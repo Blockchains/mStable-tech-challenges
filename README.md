@@ -18,9 +18,9 @@ By working at mStable, you will:
 
 **The team**
 
-We are a closely aligned, highly motivated, agile team that holds each other to high standards. The core team currently numbers 4 - we love what we do, and are looking forward to contributing to the future of DeFi as we scale up.
+We are a closely aligned, highly motivated, agile team that holds each other to high standards. The core team is small - we love what we do, and are looking forward to contributing to the future of DeFi as we scale up.
 
-If you join us on site in **Berlin** , you would be working directly with the core development team in an open and collaborative environment. We are supported by globally distributed team members and an active advisory board.
+If you join us on site, you would be working directly with the core development team in an open and collaborative environment. We are supported by globally distributed team members and an active advisory board.
 
 ## Roles
 

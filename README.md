@@ -48,6 +48,4 @@ See [protocol challenge](./protocol-developer/README.md) that should help us und
 
 #### Testnet notes
 
-See the [deployed addresses](https://docs.mstable.org/protocol/deployed-addresses) of the mStable contracts on the Ropsten network.
-
-Need some bAssets to mint with? Head to [Aave Faucet](https://testnet.aave.com/faucet) for USDT and TUSD tokens, or the [Compound App](https://app.compound.finance/Asset/cUSDC) for USDC and DAI.
+See the [deployed addresses](https://docs.mstable.org/protocol/deployed-addresses) of the mStable contracts on the Ropsten network, or use the [testnet dApp](https://app-dot-mstable-staging.appspot.com/). Need some bAssets to mint with? Head to [Aave Faucet](https://testnet.aave.com/faucet) for USDT and TUSD tokens, or the [Compound App](https://app.compound.finance/Asset/cUSDC) for USDC and DAI.

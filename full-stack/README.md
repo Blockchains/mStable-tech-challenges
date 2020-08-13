@@ -22,7 +22,7 @@ work and subsequently put his money to work in a yield generating mechanism.
 The ideal solution would have the following components:
 
 - Smart Contract(s) - this should allow both parties to have sufficient control of the payments, and facilitate the stream
-- Frontend, API or shell scripts - this would allow both parties to interact with the app from a web interface
+- Frontend, API or CLI - this would allow both parties to interact with the app from a web interface
 - Rationale for the chosen mechanism and a brief description of how it works
 
 ## Suggestions
@@ -38,7 +38,7 @@ The ideal solution would have the following components:
 
 - Gamification
 - Innovation: Show us what you can really do
-  - e.g. gas costs too high on mainnet? How about using a Layer 2 solution?
+  - e.g. gas costs too high on mainnet? How about implementing some gas minimisation strategies
   - e.g. have a better idea about how Jimmy can get a fair payment? Implement it!
 
 # Submissions

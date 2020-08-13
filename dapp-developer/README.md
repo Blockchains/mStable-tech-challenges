@@ -10,15 +10,14 @@ We really like to see clean, innovative interfaces and well written, modular and
 
 **Like the real world better?** Feel free to complete an issue with the tag `challenge` listed by our team on the [mStable-app](https://github.com/mstable/mstable-app/issues) instead.
 
-or choose 1:
+Choose 1:
 
 # Task 1
 
 Create a todo list application with the following components:
 
-Smart Contract - this should be the storage for all of the todo items that users are going to create
-Frontend - this should allow you to interact with the todo list from a web interface
-Automated tests - flex your muscles and show us how you think about test cases
+ - Smart Contract: this should be the storage for all of the todo items that users are going to create
+ - Frontend: this should allow you to interact with the todo list from a web interface
 
 ## Suggestions
 
@@ -30,6 +29,7 @@ Automated tests - flex your muscles and show us how you think about test cases
 ### Bonus points
 
 - Make the UI pop with a sleek design
+- Automated tests: flex your muscles and show us how you think about test cases
 - Create a subgraph on [TheGraph](https://thegraph.com/) to pull the data
 
 # Task 2

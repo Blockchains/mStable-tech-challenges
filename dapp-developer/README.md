@@ -10,7 +10,28 @@ We really like to see clean, innovative interfaces and well written, modular and
 
 **Like the real world better?** Feel free to complete an issue with the tag `challenge` listed by our team on the [mStable-app](https://github.com/mstable/mstable-app/issues) instead.
 
-# Task
+or choose 1:
+
+# Task 1
+
+Create a todo list application with the following components:
+
+Smart Contract - this should be the storage for all of the todo items that users are going to create
+Frontend - this should allow you to interact with the todo list from a web interface
+Automated tests - flex your muscles and show us how you think about test cases
+
+## Suggestions
+
+- Use our favourite tools - Typescript, React, Context API and GraphQL to make the client as fast as possible
+- Use Local Ganache, Ropsten or Rinkeby as the test blockchain
+- Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
+- Provide some instructions to help us get everything up and running
+
+### Bonus points
+
+- Make the UI pop with a sleek design
+
+# Task 2
 
 Mary's mother wants to show her how easy and rewarding it can be to save money on the Ethereum network.
 She wants to give Mary 5000 `USDC` to start with.
@@ -20,13 +41,13 @@ Choose from existing protocols (e.g. `mStable`, `Compound`, `Aave`) as the base 
 
 The product should consist of:
 
-- Frontend to allow Mary to easily deposit her funds and view her accruing interest
+- Frontend to allow Mary to easily deposit USDC and view her accruing interest
 - Optional Smart Contract(s) to add additional functionality
 
 ## Suggestions
 
 - Use our favourite tools - Typescript, GraphQL, React and Context API to make the client as fast as possible
-- Use Local Ganache, Ropsten or Rinkeby as the test blockchain
+- Use Local Ganache, Ropsten, Rinkeby as the network blockchain or Mainnet for real data
 - Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
 - Provide some instructions to help us get everything up and running
 

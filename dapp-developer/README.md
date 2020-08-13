@@ -22,14 +22,15 @@ Automated tests - flex your muscles and show us how you think about test cases
 
 ## Suggestions
 
-- Use our favourite tools - Typescript, React, Context API and GraphQL to make the client as fast as possible
+- Use our favourite tools - Typescript, React and Context API to make the client as fast as possible
 - Use Local Ganache, Ropsten or Rinkeby as the test blockchain
 - Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
 - Provide some instructions to help us get everything up and running
 
-### Bonus points
+### Bonus points
 
 - Make the UI pop with a sleek design
+- Create a subgraph on [TheGraph](https://thegraph.com/) to pull the data
 
 # Task 2
 

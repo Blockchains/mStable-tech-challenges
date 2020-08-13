@@ -49,16 +49,15 @@ The product should consist of:
 
 - Use our favourite tools - Typescript, GraphQL, React and Context API to make the client as fast as possible
 - Use Local Ganache, Ropsten, Rinkeby as the network blockchain or Mainnet for real data
+- Simulate some activity in the lending pools to accrue interest on the underlying
 - Use Web3js or Ethers library (or some wrapper) to connect to Ethereum and interact with the deployed smart contracts
 - Provide some instructions to help us get everything up and running
 
 ### Bonus points
 
 - Gamification
-- Innovation: Show us what you can really do
-  - e.g. gas costs too high? Add some gas minimisation strategies
-  - e.g. maybe you want Mary to only spend the interest she gains from the capital and need to create additional wrapper contract
-  - e.g. maybe the funds get converted into a different asset to optimise yield under the hood
+  - e.g. maybe you want Mary to only spend the interest she gains from the capital and create an additional wrapper contract to support that
+- Innovation: Show us what you can really do to make the UX smooth
 
 # Submissions
 

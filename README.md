@@ -46,7 +46,7 @@ The ideal protocol engineer will find innovative solutions to tough problems by 
 
 See [protocol challenge](./protocol-engineer/README.md) that should help us understand your ability to do the above.
 
-## Testnet notes
+#### Testnet notes
 
 See the [deployed addresses](https://docs.mstable.org/protocol/deployed-addresses) of the mStable contracts on the Ropsten network.
 
